@@ -1,0 +1,11 @@
+{
+  "domain": "airco2ntrol",
+  "name": "airco2ntrol custom component",
+  "version": "2.0.0",
+  "documentation": "https://github.com/jansauer/airco2ntrol",
+  "issue_tracker": "https://github.com/jansauer/airco2ntrol/issues",
+  "requirements": [],
+  "dependencies": [],
+  "codeowners": ["@jansauer"],
+  "iot_class": "local_polling"
+}
